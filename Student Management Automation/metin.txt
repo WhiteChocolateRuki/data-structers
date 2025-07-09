@@ -1,0 +1,20 @@
+Ogrenci No: 9, Ad: Semih, Soyad: Kilicsoy
+        Ders: AVP1, Vize: 45.00, Final: 78.00
+	Ders: AVP2, Vize: 90.00, Final: 54.00
+	Ders: Mat1, Vize: 30.00, Final: 98.00
+Ogrenci No: 27, Ad: Rafa, Soyad: Silva
+        Ders: AVP2, Vize: 56.00, Final: 78.00
+  	Ders: Veri Yapilari, Vize: 37.00, Final: 75.00
+  	Ders: Turkce, Vize: 12.00, Final: 34.00
+Ogrenci No: 17, Ad: Ciro, Soyad: Immobile
+        Ders: AVP2, Vize: 56.00, Final: 78.00
+  	Ders: AVP1, Vize: 37.00, Final: 75.00
+  	Ders: Veri Tabanı, Vize: 12.00, Final: 34.00
+Ogrenci No: 83, Ad: Gedson, Soyad: Fernandes
+        Ders: AVP2, Vize: 56.00, Final: 78.00
+  	Ders: Turkce, Vize: 37.00, Final: 75.00
+  	Ders: Veri Yapilari, Vize: 12.00, Final: 34.00
+Ogrenci No: 34, Ad: Mert, Soyad: Gunok
+        Ders: AVP2, Vize: 56.00, Final: 78.00
+  	Ders: Veri Yapilari, Vize: 37.00, Final: 75.00
+  	Ders: Veri Tabani, Vize: 12.00, Final: 34.00
